@@ -17,5 +17,5 @@ yarn android
 ```
 
 ## Tareas
-
+- Colca cada componente en el App.tsx
 - Estas sencuentran dentro del directorio de tareas.
